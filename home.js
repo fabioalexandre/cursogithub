@@ -2,6 +2,8 @@ function mostranome(nome){
     return nome
 }
 
-function mostrasobrenome(sobr){
-    return sobr
+function mostrasobrenome(sobrenome){
+    return sobrenome
 }
+
+//finalizado home
